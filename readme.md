@@ -96,6 +96,10 @@ const target = 9;
 const result = TwoSum(nums, target); // [0, 1]
 console.log(result);
 
+git clone https://github.com/jtrujillo1/PRUEBA-T-CNICA-SOFTWARE-DEVELOPER-MID.git
+cd PRUEBA-T-CNICA-SOFTWARE-DEVELOPER-MID
+node funtions/twoSum.js
+
 
 
 # Sistema de Gestión de Bibliotecas
